@@ -1,0 +1,12 @@
+							Reference.no :195
+
+	Room Number| Customer Name | Date of Booking | Days of Stay | Total Persons |
+	-----------------------------------------------------------------------------
+	9          |  Ravi Sharma   |    30/04/2021   |     2        |     2         | 
+
+
+
+			   Price/Night       = Rs 5500/-
+			   Price for 2 days  = Rs 11000/-
+			   GST               = Rs 1980.0/-
+			   GrandTotal=       = Rs 12980.0/-
